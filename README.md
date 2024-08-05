@@ -18,7 +18,6 @@ React.js
 TypeScript
 
 Backend
-Node.js
 Java
 SpringBoot
 MySQL (for database)
