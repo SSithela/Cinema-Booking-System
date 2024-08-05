@@ -1,12 +1,6 @@
 Cinema Booking Website
 Welcome to the Cinema Booking Website repository! This project is an eCommerce platform designed for booking cinema tickets. It features a full-stack implementation with both frontend and backend components.
 
-Table of Contents
-Introduction
-Features
-Tech Stack
-Usage
-
 Introduction
 This project provides a comprehensive solution for managing and booking cinema tickets online. Users can browse available movies, view showtimes, book tickets, and make payments. Admins can manage movie listings, schedules, and user bookings.
 
@@ -21,6 +15,7 @@ Tech Stack
 Frontend
 HTML5, CSS3, JavaScript
 React.js
+TypeScript
 
 Backend
 Node.js
